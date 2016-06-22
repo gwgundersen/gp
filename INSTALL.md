@@ -13,4 +13,4 @@ You may need to make the file executable:
 chmod +x /path/to/gp.sh
 ```
 
-We recommend added `.gp_exclude` and `.gp_exclude_global` to your [global .gitignore](https://help.github.com/articles/ignoring-files/#create-a-global-gitignore).
+We recommend adding `.gp_exclude` and `.gp_exclude_global` to your [global .gitignore](https://help.github.com/articles/ignoring-files/#create-a-global-gitignore).
