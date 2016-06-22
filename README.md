@@ -61,4 +61,4 @@ grep -r --color --exclude-dir=resources --exclude-dir=node_modules --exclude=tes
 
 Installation
 ============
-Please read [INSTALL](INSTALL.md) for installation instructions.
+Please read [INSTALL](INSTALL.md).
